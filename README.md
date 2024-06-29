@@ -4,7 +4,10 @@
 - Dieses Projekt ist eine Website mit Parallax-Effekt, erstellt mit reinem JavaScript und CSS sowie der Swiper-Bibliothek zur Erstellung eines Karussells.
 
 ## Projekt-Demonstration
-![Parallax-Effekt GIF](./img/demo.gif)
+
+<p align="center">
+  <img width="100%" height="auto" src="/img/demo.gif">
+</p>
 
 ## Merkmale
 
